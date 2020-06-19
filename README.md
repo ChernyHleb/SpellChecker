@@ -27,10 +27,10 @@ Input                                     | Output                              
 ------------------------------------------|----------------------------------------|
  rain spain plain plaint pain main mainly | the {rame?} in pain falls {main mainly}|
  the in on fall falls his was             | on the plain was {hints?} plaint       |
- '==='                                    |                                        |
+ ===                                      |                                        |
  hte rame in pain fells mainy oon teh lain|                                        |
  was hints pliant                         |                                        |
- '==='                                    |                                        |
+ ===                                      |                                        |
  
 
  
