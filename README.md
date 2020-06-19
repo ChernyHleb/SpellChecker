@@ -5,11 +5,11 @@ My task was to implement a spelling checker, that would correct words by finding
 
 # Here is a Description of a task:
 
-An edit is either: 
-• Inserting a single letter, or 
-• Deleting a single letter 
+An edit is either:
+* Inserting a single letter
+* Deleting a single letter
 With the restriction that:
-• If the edits are both insertions or both deletions, they may not be of adjacent characters. 
+* If the edits are both insertions or both deletions, they may not be of adjacent characters. 
 
 The input will consist of a dictionary followed by a sequence of possibly misspelt words. Both contain words (strings of letters) of up to 50 characters. The dictionary, in free format, is followed by a line containing just the string „===‟. After this, there will be zero or more text lines containing words followed again by a line containing the string „===‟. The input is caseinsensitive; print corrections from the dictionary in the case they appear in the dictionary and unchanged words from the text lines in their original case as well. 
 
