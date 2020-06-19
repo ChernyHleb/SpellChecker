@@ -23,15 +23,15 @@ As output, you should print the text lines with whitespace intact, with the foll
 Don‟t forget that dictionary and text size might be big enough to raise performance issues. 
 
 # Example 
-Input  
+Input                                     | Output                                 |
+------------------------------------------|----------------------------------------|
+ rain spain plain plaint pain main mainly | the {rame?} in pain falls {main mainly}|
+ the in on fall falls his was             | on the plain was {hints?} plaint       |
+ '==='                                    |                                        |
+ hte rame in pain fells mainy oon teh lain|                                        |
+ was hints pliant                         |                                        |
+ '==='                                    |                                        |
  
-rain spain plain plaint pain main mainly the in on fall falls his was 
-=== 
-hte rame in pain fells mainy oon teh lain was hints pliant
-=== 
- 
-Output
 
-the {rame?} in pain falls {main mainly} on the plain was {hints?} plaint 
  
  
